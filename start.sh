@@ -1,3 +1,4 @@
+# This is only to show you one way
 sudo apt-get install python2.6
 sudo apt-get install python-pip
 sudo apt-get install git
