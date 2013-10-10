@@ -1,5 +1,4 @@
-# Python, virtualenv, django, south, git install
-# Initial project
+# Python, virtualenv, django, git install
 sudo apt-get install python2.6
 sudo apt-get install python-pip
 sudo apt-get install git
